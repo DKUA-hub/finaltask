@@ -2,7 +2,6 @@ from .base_page import BasePage
 from .locators import MainLocators
 from .login_page import LoginPage
 from selenium.webdriver.common.by import By
-#import selenium.webdriver.remote.webdriver
 
 class MainPage(BasePage):
 
